@@ -1,0 +1,30 @@
+{
+  "name": "kiosk-attractor",
+  "version": "1.0.0",
+  "description": "Co-ordinate start/stop of attractor screen for exhibition/kiosk installations",
+  "main": "index.js",
+  "dependencies": {
+    "event-box": "^1.1.2",
+    "interaction-timeout": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaz303/kiosk-attractor.git"
+  },
+  "keywords": [
+    "exhibit",
+    "kiosk",
+    "attractor",
+    "timeout"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaz303/kiosk-attractor/issues"
+  },
+  "homepage": "https://github.com/jaz303/kiosk-attractor"
+}
